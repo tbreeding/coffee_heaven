@@ -1,12 +1,5 @@
-# VS Code
-
-.vscode/*
-
-# Node.js
-
 node_modules/
-.package-lock.json
 
-# Project
+package-json.lock
 
 public/css/
